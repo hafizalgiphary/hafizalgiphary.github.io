@@ -1,0 +1,85 @@
+@font-face{
+    font-family: Arial, Helvetica, sans-serif;
+    src: url(font/Helvetica.ttf);
+}
+
+html{
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+body{
+    background-color: #1A1A1A;
+    background-position: center;
+    background-size: cover;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Helvetica';
+}
+p{
+    font-family: 'Helvetica';
+}
+
+.navbar{
+    background-color: #bdde04;
+    color: #1A1A1A ;
+    font-family: 'Helvetica';
+    font-size: 15pt;
+    border: none;
+}
+
+.awal-text{
+    color: #bdde04;
+}
+
+.awal-text{
+    font-size: 90pt;
+}
+
+.gambar{
+    padding-top: 3rem;
+   width: 30rem;
+}
+
+.about{
+    color: #bdde04;
+    padding-top:7rem ;
+}
+
+.about-isi{
+    color: #bdde04;
+    font-size: 17pt;
+    line-height: 1.5;
+}
+
+.skills{
+    color: #bdde04;
+}
+
+.progress-bar{
+    background-color: #bdde04;
+}
+
+.contact{
+    color: #bdde04;
+}
+
+.card{
+    background-color: transparent;
+    color: #bdde04;
+    border-color: transparent;
+}
+
+.card-img{
+    width: 15rem;
+}
+
+.wa{
+    padding-top: 2rem;
+    width: 11rem;
+}
+
+.footer{
+    color:#bdde04;
+}
